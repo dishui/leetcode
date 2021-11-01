@@ -3,6 +3,10 @@
  * @param {number[]} nums2
  * @return {number}
  */
+/**
+ * Algorithm
+ * 
+ */
  const Heap = require('../collections/heap'); //http://www.collectionsjs.com
 
  var findMedianSortedArrays = function(nums1, nums2) {
